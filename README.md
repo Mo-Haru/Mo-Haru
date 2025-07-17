@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mo-Haru
 - 👀 I’m interested in Generative AI
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Python, JavaScript
 <!-- - 💞️ I’m looking to collaborate on ... -->
 - 📫 How to reach me ...
 <!-- - 😄 Pronouns: ... -->
